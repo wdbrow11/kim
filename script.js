@@ -11,7 +11,8 @@ var shoutouts = [
   "How kind and smart you are.",
   "How you contribute to conversations!",
   "how nice and kind you are. I also love watching your projects because you always come up with some cool ideas and execute them so well",
-  "Your determination! You are so hardworking and focused and I admire that so much."
+  "Your determination! You are so hardworking and focused and I admire that so much.",
+  "Your disposition in helping others and your ability of being so serious at Terodactile gameeeee"
 ]
 
 for (x of shoutouts) {
